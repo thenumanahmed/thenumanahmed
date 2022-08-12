@@ -86,10 +86,10 @@
 
 <p align="center">
 <a href="https://github.com/saadfareed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=numanahmed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=numanahmed&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=numanahmed&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
 
@@ -97,14 +97,14 @@
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
-| [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github)](https://github.com/saadfareed/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/saadfareed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**Meeting Summarization**](https://github.com/numanahmed/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/numanahmed/transcript_summary?color=green&logo=github&style=flat)](https://github.com/numanahmed/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/numanahmed/transcript_summary?style=flat&logo=github)](https://github.com/numanahmed/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/numanahmed/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/numanahmed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |
  
     
  
 <h2 >🏆 GitHub Profile Trophy:</h2>
 <p>
 <a href="https://github.com/saadfareed">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=numanahmed&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 
 </a>
 </p>
