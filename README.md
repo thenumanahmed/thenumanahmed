@@ -73,23 +73,23 @@
 <h2 >🤝🏻 &nbsp;Connect with Me:
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/numanahmed98n/"><img src="https://img.shields.io/badge/-Numan%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:numanahmedmail@gmail.com"><img src="https://img.shields.io/badge/-numanahmedmail@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/numanahmed.insta/"><img src="https://img.shields.io/badge/-@thenumanahmed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/thenumanahmed/"><img src="https://img.shields.io/badge/-/thenumanahmed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
  
 <br>
 <h2> Contribution Graph: </h2>
- <img src="https://activity-graph.herokuapp.com/graph?username=saadfareed&bg_color=000005&color=ffffff&line=0c3d6e&point=0863bf&custom_title=This%20is%20a%20title&hide_border=true"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=thenumanahmed&bg_color=000005&color=ffffff&line=0c3d6e&point=0863bf&custom_title=This%20is%20a%20title&hide_border=true"/>
  <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-<a href="https://github.com/saadfareed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=numanahmed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=numanahmed&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/thenumanahmed">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thenumanahmed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thenumanahmed&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=numanahmed&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=thenumanahmed&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
 
@@ -97,14 +97,14 @@
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
-| [**Meeting Summarization**](https://github.com/numanahmed/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/numanahmed/transcript_summary?color=green&logo=github&style=flat)](https://github.com/numanahmed/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/numanahmed/transcript_summary?style=flat&logo=github)](https://github.com/numanahmed/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/numanahmed/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/numanahmed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**Meeting Summarization**](https://github.com/thenumanahmed/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/thenumanahmed/transcript_summary?color=green&logo=github&style=flat)](https://github.com/thenumanahmed/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/thenumanahmed/transcript_summary?style=flat&logo=github)](https://github.com/thenumanahmed/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/thenumanahmed/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/thenumanahmed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |
  
     
  
 <h2 >🏆 GitHub Profile Trophy:</h2>
 <p>
-<a href="https://github.com/saadfareed">
-  <img src="https://github-profile-trophy.vercel.app/?username=numanahmed&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+<a href="https://github.com/thenumanahmed">
+  <img src="https://github-profile-trophy.vercel.app/?username=thenumanahmed&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 
 </a>
 </p>
