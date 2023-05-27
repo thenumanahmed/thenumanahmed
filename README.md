@@ -3,15 +3,15 @@
     <h1> Hi there, I'm Numan Ahmed👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Flutter+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/thenumanahmed"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Flutter+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 <br>
  
 <h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
 <tr>
-    <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
+    <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
 
   <td align='center' width="200">
@@ -23,8 +23,8 @@
  <td align='center' width="200">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+  <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
  
 </tr>
@@ -36,9 +36,10 @@
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
- <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+   <td align='center' width="200">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
+
      <td align='center'>
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
     </td>
@@ -48,23 +49,7 @@
 
 </tr>
  
-<tr>
-    <td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
-    </td>
-    <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
-    </td>
- <td align='center'>
-        <img src="[https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg](https://www.bing.com/ck/a?!&&p=3e810946690e169eJmltdHM9MTY4NTE0NTYwMCZpZ3VpZD0yMTI1NjEwYS0xNTBjLTZjZTctMGU3YS03M2IwMTQ2YzZkMDYmaW5zaWQ9NTQ4Ng&ptn=3&hsh=3&fclid=2125610a-150c-6ce7-0e7a-73b0146c6d06&u=a1L2ltYWdlcy9zZWFyY2g_cT1mbHV0dGVyK2xvZ28rbGluayZpZD1EMzNBRENBRTYwMkIyQ0VBMDhERTA0NEE0OTQ5OEI3QzBFRTg4QThEJkZPUk09SVFGUkJB&ntb=1)">
-    </td>
-  <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-    <td align='center'>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tQ6ZxMVlObIH08ozYIuAgzbirwoLN5gPPcbd94BLkA72Bvv0gBXSxNrOCaNGHAaoG14&usqp=CAU" width="80">
-    </td>
-</tr>
+<
     
 </table>
 
