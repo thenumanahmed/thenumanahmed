@@ -24,7 +24,7 @@
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
   <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+        <img src="https://th.bing.com/th/id/OIP.FxqaNYhqoLjxa63A-oXMQgHaFj?pid=ImgDet&rs=1" width="80">
     </td>
  
 </tr>
