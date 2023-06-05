@@ -42,7 +42,9 @@
    <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
-
+ <td align='center'>
+        <img src="https://th.bing.com/th/id/OIP.jVC2bf34N9CmRK3mY1GiGwHaHa?pid=ImgDet&rs=1">
+    </td>
    
 
 </tr>
