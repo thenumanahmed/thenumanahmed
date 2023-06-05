@@ -37,7 +37,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
+        <img src="https://th.bing.com/th/id/R.7dbaafc15f13ba1e82d2db9244f9608d?rik=JRNEKsrrGZ5uzA&pid=ImgRaw&r=0">
     </td>
    <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
