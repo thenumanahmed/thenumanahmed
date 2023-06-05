@@ -58,7 +58,7 @@
 <h2 >🤝🏻 &nbsp;Connect with Me:
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/numanahmed98n/"><img src="https://img.shields.io/badge/-Numan%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/numan-ahmed-987n/"><img src="https://img.shields.io/badge/-Numan%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:numanahmedmail@gmail.com"><img src="https://img.shields.io/badge/-numanahmedmail@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/numanahmed.insta/"><img src="https://img.shields.io/badge/-@numanahmed.insta-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/thenumanahmed/"><img src="https://img.shields.io/badge/-/thenumanahmed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
