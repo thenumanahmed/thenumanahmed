@@ -11,7 +11,7 @@
 <table width="100">
 <tr>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+        <img src="https://th.bing.com/th/id/R.3919e5b2f737f142a45921320e666382?rik=mkXBaXp%2bAMCTcw&pid=ImgRaw&r=0" width="80">
     </td>
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
