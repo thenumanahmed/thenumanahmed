@@ -68,13 +68,17 @@
  
 <br>
 <h2> Contribution Graph: </h2>
+
  <img src="https://activity-graph.herokuapp.com/graph?username=thenumanahmed&bg_color=000005&color=ffffff&line=0c3d6e&point=0863bf&custom_title=This%20is%20a%20title&hide_border=true"/>
  <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
 <a href="https://github.com/thenumanahmed">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thenumanahmed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thenumanahmed&layout=compact&langs_count=8&theme=algolia"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thenumanahmed&layout=compact&langs_count=8&theme=algolia"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact"/>
+<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walimuhammadahmad&show_icons=true&locale=en&layout=compact" alt="walimuhammadahmad" /></p> -->
+<br>
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=thenumanahmed&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
