@@ -97,7 +97,7 @@ I care about:
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/numanahmed-987n/">
+  <a href="https://www.linkedin.com/in/numan-ahmed-987n/">
     <img src="https://img.shields.io/badge/LinkedIn-Numan%20Ahmed-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:numanahmedmail@gmail.com">
