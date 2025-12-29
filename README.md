@@ -13,10 +13,10 @@ Backend-Focused Full-Stack Developer
 
 ## 👨‍💻 About Me
 
-I'm an **Associate Software Engineer** with **8+ months of hands-on experience** building backend-heavy, production-ready applications.  
-I enjoy designing **scalable APIs**, working with **databases**, and implementing **secure authentication, payments, and business logic**.
+I'm an **Associate Software Engineer** focused on building backend-heavy, production-ready applications.  
+I enjoy designing **scalable APIs**, working with **relational databases**, and implementing **secure authentication**, **payment flows**, and **business logic**.
 
-I’ve worked on real-world systems such as **payment-protected workflows**, **credit-based systems**, **dynamic forms**, and **POS applications**, while collaborating closely with frontend layers using React and Flutter.
+I’ve worked on real-world systems such as **payment-protected workflows**, **credit-based systems**, **dynamic form engines**, and **POS applications**, collaborating closely with frontend layers using **React** and **Flutter**.
 
 I care about:
 - Clean architecture
@@ -32,7 +32,7 @@ I care about:
 - Python, SQL
 
 ### Backend
-- Node.js, NestJS, Express.js  
+- Node.js, NestJS, Express.js
 - REST APIs, GraphQL  
 - Prisma, TypeORM  
 
@@ -88,25 +88,10 @@ I care about:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=thenumanahmed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=21600" />
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thenumanahmed&layout=compact&cache_seconds=21600" />
-</p>
-
-<p align="center">
-  <img width="90%"
+  <img width="70%" 
     src="https://streak-stats.demolab.com?user=thenumanahmed&theme=merko&hide_border=true" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=thenumanahmed&theme=matrix&column=4&margin-w=15" />
-</p>
 ---
 
 ## 🤝 Connect With Me
