@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Numan Ahmed 👋  
+# Hi, I'm Numan Ahmed 👨🏼‍💻
 Backend-Focused Full-Stack Developer
 
 <a href="https://github.com/thenumanahmed">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer+%7C+Full+Stack+Developer;Node.js+%7C+NestJS+%7C+PostgreSQL;Flutter+%7C+React+Developer;Always+Learning+%26+Building&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer+%7C+Full+Stack+Developer;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+MongoDB;Flutter+%7C+React+Developer;Always+Learning+%26+Building&center=true&width=600&height=45">
 </a>
 
 </div>
